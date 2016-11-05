@@ -5,7 +5,7 @@ A C++ implementation of ACO algorithms for dynamic TSPs
 
 The code is based on the ACOTSP implementation of Thomas Stuetzle:
 ACO algorithms for the TSP, version 1.03
-www://www.aco-metaheuristic.org/aco-code
+www.aco-metaheuristic.org/aco-code
 
 
 
