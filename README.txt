@@ -8,19 +8,11 @@ ACO algorithms for the TSP, version 1.03
 www.aco-metaheuristic.org/aco-code
 
 
-
-CONTENTS
+CONTENTS (both DTSP Weight Changes.zip & DTSP Node Changes.zip)
 =======
 Implementation of ACO variations
 ACO.cpp
 ACO.hpp
-
-Implementation of DTSP with weight changes (DTSP with Weight Changes.zip)
-DTSPwc.cpp 
-DTSPwc.hpp
-and implementation of DTSP with node changes (DTSP with Node Changes.zip)
-DTSPnc.cpp
-DTSPnc.hpp
 
 Implementation of performance and behaviour measurements
 stats.cpp
@@ -33,9 +25,15 @@ ls.hpp
 The main method of the implementation
 main.cpp
 
+Implementation of DTSP with weight changes (DTSP Weight Changes.zip)
+DTSPwc.cpp 
+DTSPwc.hpp
+and implementation of DTSP with node changes (DTSP Node Changes.zip)
+DTSPnc.cpp
+DTSPnc.hpp
 
 
 Contact
 =======
 Michalis Mavrovouniotis
-m.mavrovouniotis(at)hotmail.com
+m.mavrovouniotis(at no spam)hotmail.com
