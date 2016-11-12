@@ -15,10 +15,10 @@ Implementation of ACO variations
 ACO.cpp
 ACO.hpp
 
-Implementation of DTSP with weight changes
+Implementation of DTSP with weight changes (DTSP with Weight Changes.zip)
 DTSPwc.cpp 
 DTSPwc.hpp
-and implementation of DTSP with node changes
+and implementation of DTSP with node changes (DTSP with Node Changes.zip)
 DTSPnc.cpp
 DTSPnc.hpp
 
