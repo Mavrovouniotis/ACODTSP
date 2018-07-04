@@ -1,4 +1,4 @@
-ACODTSP
+﻿ACODTSP
 =======
 
 A C++ implementation of ACO algorithms for dynamic TSPs
@@ -33,11 +33,6 @@ ls.hpp
 The main method of the implementation
 main.cpp
 
-
-Note that the absolute objective values of the experimental studies of paper: 
-“Ant Colony Optimization Algorithms for Dynamic Problems: A Comprehensive Comparison”
-are available in "values.pdf". If the same dynamic test cases are generated then 
-these values can be used for future studies.
 
 Contact
 =======
