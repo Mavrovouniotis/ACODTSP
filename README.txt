@@ -1,4 +1,4 @@
-﻿ACODTSP 
+﻿ACODTSP - WILL BE MADE AVAILABLE WHEN THE PAPER IS ACCEPTED
 =======
 
 A C++ implementation of ACO algorithms for dynamic TSPs
