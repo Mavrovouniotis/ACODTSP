@@ -1,33 +1,31 @@
-﻿ACODTSP - WILL BE MADE AVAILABLE WHEN THE PAPER IS ACCEPTED
+﻿ACODTSP
 =======
 
-A C++ implementation of ACO algorithms for dynamic TSPs
+A C++ implementation of the Dynamic Benchmark Framework published in the following paper:
 
-The code is based on the ACOTSP implementation of Thomas Stuetzle:
-ACO algorithms for the TSP, version 1.03
-www.aco-metaheuristic.org/aco-code
+M. Mavrovouniotis, S. Yang, M. Van, C. Li, and M. Polycarpou. Ant colony optimization algorithms for dynamic optimization: A case study of the dynamic travelling salesperson problem. ``IEEE Computational Intelligence Magazine'', IEEE Press, 2019
+
+Written by Michalis Mavrovouniotis, 2019.
 
 
 CONTENTS
 =======
-Implementation of ACO variations
+Implementation of ACO frameworks and variations
 ACO.cpp
 ACO.hpp
 
-Implementation of DTSP with weight changes
-DTSPwc.cpp 
-DTSPwc.hpp
-and implementation of DTSP with node changes
-DTSPnc.cpp
-DTSPnc.hpp
+The code of the ACO algorithms is based on the ACOTSP implementation 
+of Thomas Stuetzle: ACO algorithms for the TSP, version 1.03 
+www.aco-metaheuristic.org/aco-code
+
+
+Implementation of the dynamic benchmark framework
+DTSP.cpp 
+DTSP.hpp
 
 Implementation of performance and behaviour measurements
 stats.cpp
 stats.hpp
-
-Implementation of local search operator
-ls.cpp
-ls.hpp
 
 The main method of the implementation
 main.cpp
