@@ -3,7 +3,7 @@
 
 A C++ implementation of the Dynamic Benchmark Framework published in the following paper:
 
-M. Mavrovouniotis, S. Yang, M. Van, C. Li, and M. Polycarpou. Ant colony optimization algorithms for dynamic optimization: A case study of the dynamic travelling salesperson problem. ``IEEE Computational Intelligence Magazine'', IEEE Press, 2019
+M. Mavrovouniotis, S. Yang, M. Van, C. Li, and M. Polycarpou. Ant colony optimization algorithms for dynamic optimization: A case study of the dynamic travelling salesperson problem. ``IEEE Computational Intelligence Magazine'', 15(1), pp. 52-63, Feb. 2019
 
 Written by Michalis Mavrovouniotis, 2019.
 
